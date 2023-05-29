@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f367c76f-7b03-4300-bfbf-32f2c39fa157" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/order.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/src/main/java/com/example/ApiGateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiGateway/src/test/java/com/example/ApiGateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/src/main/java/com/example/paymentapp/CountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/src/main/java/com/example/paymentapp/PaymentAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment-app/src/test/java/com/example/paymentapp/PaymentAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/src/main/java/com/example/productapp/FeignClientsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/src/main/java/com/example/productapp/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/src/main/java/com/example/productapp/MigrationProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/src/main/java/com/example/productapp/ProductAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-app/src/test/java/com/example/productapp/ProductAppApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/ApiGateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ConfigServer">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/EurekaServer">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/book-app">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/order">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/payment-app">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/product-app">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QSk74DMsnXZeBhjorpTWOkvvOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f367c76f-7b03-4300-bfbf-32f2c39fa157" name="Changes" comment="" />
+      <created>1685354200757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685354200757</updated>
+    </task>
+    <servers />
+  </component>
+</project>
